@@ -1,1 +1,1 @@
-start login
+start login adding registry
